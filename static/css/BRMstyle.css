@@ -1,0 +1,110 @@
+body{
+  background-color:white;
+  margin: 0px 0px 0px 0px;
+  font-family:"calibri";
+}
+#header{
+  background-color:#329A97;
+  padding-bottom:20px;
+  text-align:center;
+}
+#header h1{
+  text-align:center;
+  color:yellow;
+  text-decoration: underline;
+  letter-spacing:2px;
+}
+#nav{
+  width:60%;
+  margin:auto;
+}
+#nav a{
+  background-color:yellow;
+  width:150px;
+  font-size:20px;
+  font-weight: bold;
+  border-style: solid;
+  border-color: black;
+  text-decoration:none;
+  color:#329A97;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#main{
+  margin:auto;
+  border:solid 1px black;
+  width:80%;
+  padding:10px;
+  margin-top: 10px;
+
+}
+#main h2{
+  text-align:center;
+  font-size:40px;
+  font-weight: bolder;
+}
+#main table{
+  background-color:white;
+  width:100%;
+  text-align:center;
+  font-size:22px;
+  color:#329A97;
+
+}
+#main table th{
+  background-color:#329A97;
+  text-decoration: underline;
+  color:white;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 5px;
+  padding-left: 1px;
+}
+#main table td{
+  font-weight: bold;
+}
+
+#main form{
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+#main input{
+  font-size: 20px;
+}
+.btn{
+  background-color:#F4FA3C;
+  width:150px;
+  border:solid;
+  border-width: 2px;
+  font-size:18px;
+  text-decoration: none;
+  color:#329A97;
+  padding-left:10px;
+  padding-right:10px;
+  font-weight: bold;
+}
+#creator{
+  font-size:17px;
+  margin-top: 30px;
+  padding-top: 300px;
+  text-align: center;
+  background-color: white;
+  color:#329A97;
+}
+#span{
+  text-decoration:none;
+}
+.myprofile{
+  font-size: 26px;
+  text-decoration: none;
+  color:#329A97;
+}
+#profile{
+  font-size: 25px;
+  font-weight: bold;
+}
+#Sneh{
+  color:#329A97;
+}
